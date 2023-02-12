@@ -1,1 +1,4 @@
-/.project
+.settings/
+module-ear/target/
+module-ejb/target/
+module-web/target/

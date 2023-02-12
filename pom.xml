@@ -10,6 +10,7 @@
 		<javaee.version>8.0</javaee.version>
 		<javaee-ejb.version>3.2</javaee-ejb.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+		<app.name>JavaEEClusterApp</app.name>
 	</properties>
 
 	<modules>
