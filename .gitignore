@@ -2,5 +2,6 @@
 module-ear/target/
 module-ejb/target/
 module-web/target/
+module-ear/.settings/
 module-ejb/.settings/
 module-web/.settings/
